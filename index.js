@@ -2,5 +2,9 @@
 'use strict';
 
 module.exports = {
-  name: 'eslint-test'
+  name: 'eslint-test',
+
+  isDevelopingAddon() {
+    return true
+  }
 };
