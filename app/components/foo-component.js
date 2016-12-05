@@ -1,0 +1,1 @@
+export { default } from 'eslint-test/components/foo-component';
